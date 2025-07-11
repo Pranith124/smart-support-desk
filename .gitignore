@@ -107,6 +107,8 @@ dist
 # Docusaurus cache and generated files
 .docusaurus
 
+
+
 # Serverless directories
 .serverless/
 
@@ -137,3 +139,6 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+
